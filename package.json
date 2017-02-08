@@ -1,6 +1,6 @@
 {
   "name": "seal-stream-as-string",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "seal-stream-as-string transforms streams to strings.",
   "author": {
     "name": "SEAL Systems AG",
