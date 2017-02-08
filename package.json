@@ -1,0 +1,32 @@
+{
+  "name": "seal-stream-as-string",
+  "version": "0.0.4",
+  "description": "seal-stream-as-string transforms streams to strings.",
+  "author": {
+    "name": "SEAL Systems AG",
+    "email": "opensource@sealsystems.de",
+    "url": "https://www.sealsystems.de"
+  },
+  "license": "MIT",
+  "scripts": {
+    "bot": "bot",
+    "release": "bot release && npm publish",
+    "release-minor": "bot release --type minor && npm publish",
+    "release-major": "bot release --type major && npm publish",
+    "test": "bot test-units",
+    "coverage": "istanbul cover _mocha -- --recursive --ui tdd ",
+    "report": "npm run coverage && if [[ $OSTYPE == darwin* ]]; then open=open; else open=xdg-open; fi && $open coverage/lcov-report/index.html"
+  },
+  "main": "lib/StreamAsString.js",
+  "dependencies": {},
+  "devDependencies": {
+    "assertthat": "0.8.3",
+    "eslint-config-seal": "0.0.9",
+    "roboter": "0.13.7",
+    "roboter-server": "0.13.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sealsystems/seal-stream-as-string.git"
+  }
+}
