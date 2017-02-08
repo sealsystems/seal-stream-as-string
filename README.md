@@ -1,5 +1,8 @@
 # seal-stream-as-string
 
+[![CircleCI](https://circleci.com/gh/sealsystems/seal-stream-as-string.svg?style=svg)](https://circleci.com/gh/sealsystems/seal-stream-as-string)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/k2pdancby8wrtdc3?svg=true)](https://ci.appveyor.com/project/Plossys/seal-stream-as-string)
+
 seal-stream-as-string transforms streams to strings.
 
 ## Installation
