@@ -1,7 +1,7 @@
 {
-  "name": "seal-stream-as-string",
+  "name": "@sealsystems/stream-as-string",
   "version": "0.0.5",
-  "description": "seal-stream-as-string transforms streams to strings.",
+  "description": "@sealsystems/stream-as-string transforms streams to strings.",
   "author": {
     "name": "SEAL Systems AG",
     "email": "opensource@sealsystems.de",
@@ -27,6 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sealsystems/seal-stream-as-string.git"
+    "url": "https://github.com/sealsystems/node-stream-as-string.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
