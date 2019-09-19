@@ -43,9 +43,11 @@ suite('StreamAsString', () => {
     });
 
     test('throws an exception if called before end.', (done) => {
-      assert.that(() => {
-        streamAsString.asString();
-      }).is.throwing('Must be called after end.');
+      assert
+        .that(() => {
+          streamAsString.asString();
+        })
+        .is.throwing('Must be called after end.');
       done();
     });
 
