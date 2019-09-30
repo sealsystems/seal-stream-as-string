@@ -18,7 +18,7 @@
   "main": "lib/StreamAsString.js",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "1.0.0",
+    "assertthat": "4.0.2",
     "eslint-config-seal": "0.0.9",
     "nyc": "14.1.1",
     "roboter": "0.16.0",
