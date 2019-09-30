@@ -21,7 +21,7 @@
     "assertthat": "1.0.0",
     "eslint-config-seal": "0.0.9",
     "nyc": "14.1.1",
-    "roboter": "0.16.0",
+    "roboter": "8.1.1",
     "roboter-server": "0.16.0"
   },
   "repository": {
