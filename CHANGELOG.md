@@ -1,3 +1,26 @@
+## 0.2.0 (2019-10-14)
+
+### Features
+
+
+#### PLS-431 ([530ff0a](https://github.com/sealsystems/node-stream-as-string/commit/530ff0a))
+
+- Removed roboter
+ - Installed latest dev stack
+ - Updated scripts
+ - Updated GitHub Pull Request template
+ - Updated CircleCI config
+ - Updated appveyor config
+ - Updated eslint config
+ - Updated dependencies
+ - Added dependabot config
+ - Added `package-lock.json` to git
+ - Fixed linting
+ - Used `seal-node:oss-module-update`
+
+
+---
+
 ## 0.1.1 (2018-09-09)
 
 ### Bug Fixes
