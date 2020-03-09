@@ -1,3 +1,14 @@
+## 0.2.1 (2020-03-09)
+
+### Chores
+
+
+#### Swichted to github-actions. ([d4a57ed](https://github.com/sealsystems/node-stream-as-string/commit/d4a57ed))
+
+
+
+---
+
 ## 0.2.0 (2019-10-14)
 
 ### Features
