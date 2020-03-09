@@ -11,7 +11,7 @@ const Transform = stream.Transform;
 suite('StreamAsString', () => {
   let streamAsString;
 
-  setup(() => {
+  setup(async () => {
     streamAsString = new StreamAsString();
   });
 
