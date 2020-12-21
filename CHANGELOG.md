@@ -1,3 +1,10 @@
+## 0.2.2 (2020-12-21)
+
+### Chores
+
+
+Trigger release ([3fd1d95](https://github.com/sealsystems/node-stream-as-string/commit/3fd1d95))
+
 ## 0.2.1 (2020-03-09)
 
 ### Chores
