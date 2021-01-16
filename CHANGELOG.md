@@ -1,3 +1,10 @@
+## 0.2.4 (2021-01-16)
+
+### Chores
+
+
+Update build config ([6a765c0](https://github.com/sealsystems/node-stream-as-string/commit/6a765c0))
+
 ## 0.2.3 (2020-12-26)
 
 ### Chores
